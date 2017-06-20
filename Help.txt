@@ -1,0 +1,14 @@
+PAINT ON IT! HELP
+
+1.	Select any mesh or terrain object in the scene (you may select multiply objects but only the last one will be painted).
+
+2.	Go to menu GoToSolutions -> Paint On It...
+
+3.	Select brush object in opened window.
+
+4.	Paint on it!
+
+5.	When finished, close the tool (Presently the tool creates temporary mesh collider and removes it on close).
+
+
+Enjoy!
